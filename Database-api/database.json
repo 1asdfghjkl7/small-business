@@ -1,0 +1,50 @@
+{
+    "Employees":[
+        {
+            "employeeId":1,
+            "name":"Bob",
+            "deptId":2,
+            "compId":3
+        },
+        {
+            "employeeId":2,
+            "name":"John",
+            "deptId":3,
+            "compId":2
+        },
+        {
+            "employeeId":3,
+            "name":"Phill",
+            "deptId":1,
+            "compId":1
+        }
+    ],
+    "Departments":[
+        {
+            "deptId":1,
+            "dept":"Sales"
+        },
+        {
+            "deptId":2,
+            "dept":"Management"
+        },
+        {
+            "deptId":3,
+            "dept":"Research"
+        }
+    ],
+    "Computers":[
+        {
+            "compId":1,
+            "OS":"2015 Macbook Pro"
+        },
+        {
+            "compId":2,
+            "OS":"XPS 15 9560"
+        },
+        {
+            "compId":3,
+            "OS":"Commodore 64"
+        }
+    ]
+}
